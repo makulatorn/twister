@@ -4,7 +4,7 @@ const result = document.getElementById('result');
 
 const segments = [];
 const colors = ['Red', 'Blue', 'Green', 'Yellow'];
-const limbs = ['Left Hand', 'Right Hand', 'Left Foot', 'Right Foot'];
+const limbs = ['Venstre Hånd', 'Højre Hånd', 'Left Fod', 'Højre Fod'];
 
 // Create all 16 combinations
 limbs.forEach(limb => {
